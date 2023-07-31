@@ -24,6 +24,10 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
+<h3>
+  About Me [TODO :)]
+</h3>
+
 <!--
 **San1dh/San1dh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -49,4 +53,4 @@ Here are some ideas to get you started:
 
 <br>
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=San1dh&show_icons=true&theme=radical)](https://github.com/anurahazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=San1dh&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
