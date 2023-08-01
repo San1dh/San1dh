@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+<details>
+  <summary>How to make this page?</summary>
+  <br>
+Made this profile with the help of [How to Create an Impressive GitHub Profile README](https://www.sitepoint.com/github-profile-readme/) by [itsZed0](https://github.com/itsZed0).
+  <br>
+  <br>
+Uses basic HTML & you can edit it of you know some basics of HTML. 
+  <br>
+  <br>
+Or just copy it & follow the instructions. 
+</details>
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
