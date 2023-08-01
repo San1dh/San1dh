@@ -37,8 +37,11 @@ Or just copy it & follow the instructions.
 </div>
 
 <h3>
-  About Me [TODO :)]
+  About Me
 </h3>
+<p>
+  I am a CS <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India. Interested in frontend layout, cloud, databases, mobile dev using Flutter & machine learning. Know basics of Flutter, Python, C, SQL, HTML/CSS. Like to watch movies/shows or YT news documentaries in my free time.
+</p>
 
 <!--
 **San1dh/San1dh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
