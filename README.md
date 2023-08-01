@@ -41,7 +41,12 @@ Or just copy it & follow the instructions.
   About Me
 </h3>
 <p>
-  I am a CS student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India. Interested in frontend layout, cloud, databases, mobile dev using Flutter & machine learning. Know basics of Flutter, Python, C, SQL, HTML/CSS. Like to watch movies/shows or YT news documentaries in my free time.
+  I am a CS student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India. 
+  <br><br>
+  Interested in frontend layout, cloud, databases, mobile dev using Flutter & machine learning. Know basics of Flutter, Python, C, SQL, HTML/CSS. 
+  <br><br>
+  Like to watch movies/shows or YT news documentaries in my free time. Also like participating in competitions like hackathons & especially quizzes or debates.
+  <br><br>
   Worked on some basic projects like mask detection, trash detection & mapping, fake news text detection, web app for teachers as college projects & as part of hackathons.
 </p>
 
