@@ -40,7 +40,7 @@ Or just copy it & follow the instructions.
   About Me
 </h3>
 <p>
-  I am a CS <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India. Interested in frontend layout, cloud, databases, mobile dev using Flutter & machine learning. Know basics of Flutter, Python, C, SQL, HTML/CSS. Like to watch movies/shows or YT news documentaries in my free time.
+  I am a CS student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India. Interested in frontend layout, cloud, databases, mobile dev using Flutter & machine learning. Know basics of Flutter, Python, C, SQL, HTML/CSS. Like to watch movies/shows or YT news documentaries in my free time.
 </p>
 
 <!--
