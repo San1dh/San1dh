@@ -42,6 +42,7 @@ Or just copy it & follow the instructions.
 </h3>
 <p>
   I am a CS student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India. Interested in frontend layout, cloud, databases, mobile dev using Flutter & machine learning. Know basics of Flutter, Python, C, SQL, HTML/CSS. Like to watch movies/shows or YT news documentaries in my free time.
+  Worked on some basic projects like mask detection, trash detection & mapping, fake news text detection, web app for teachers as college projects & as part of hackathons.
 </p>
 
 <!--
