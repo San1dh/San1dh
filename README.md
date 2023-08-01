@@ -27,13 +27,14 @@ Or just copy it & follow the instructions.
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<br>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=San1dh&style=flat-square&color=blue" alt=""/>
-</div>
+
 <br>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+<br>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=San1dh&style=flat-square&color=blue" alt=""/>
 </div>
 
 <h3>
