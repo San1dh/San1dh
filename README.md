@@ -43,7 +43,7 @@ Or just copy it & follow the instructions.
 <p>
   I am a CS student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India. 
   <br><br>
-  Interested in frontend layout, cloud, databases, mobile dev using Flutter & machine learning. Know basics of Flutter, Python, C, SQL, HTML/CSS. 
+  Interested in frontend layout, cloud, databases, mobile dev using Flutter & machine learning. Know basics of Flutter, Python, C, SQL, HTML/CSS & AWS.
   <br><br>
   Like to watch movies/shows or YT news documentaries in my free time. Also like participating in competitions like hackathons & especially quizzes or debates.
   <br><br>
